@@ -12,6 +12,7 @@
     <artifactId>springcloud-api</artifactId>
 
 
+
     <!--当前Model自己需要的依赖-->
     <dependencies>
         <dependency>
